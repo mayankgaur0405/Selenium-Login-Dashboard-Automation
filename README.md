@@ -1,7 +1,3 @@
-Here’s your **complete README (text only)** for the **Web Automation with Selenium | BDD Framework** project:
-
----
-
 # Web Automation with Selenium | BDD Framework (Java, Selenium, TestNG)
 
 A real-world login + dashboard test automation project using Selenium WebDriver, Cucumber BDD, and TestNG. Built with the Page Object Model (POM) and CI/CD-ready architecture, this project ensures clear test coverage for both valid and invalid login flows.
