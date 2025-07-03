@@ -110,6 +110,3 @@ Email: [mayankgaur1504@gmail.com](mailto:mayankgaur1504@gmail.com)
 
 This project is licensed under the MIT License – free to use and modify.
 
----
-
-Let me know if you'd like a `.docx` version or a video walkthrough section too.
